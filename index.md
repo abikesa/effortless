@@ -42,7 +42,7 @@
 
 
 ### Dionysus 1, 2, 3
-- Data/`OpenAI`: Hunting & [Gathering As Much](https://www.reuters.com/technology/oracle-misses-quarterly-revenue-estimates-2024-06-11/)
+- [Data](https://abikesa.github.io/omni/omni/dag.html)/`OpenAI`: Hunting & [Gathering As Much](https://www.reuters.com/technology/oracle-misses-quarterly-revenue-estimates-2024-06-11/)
 - [Effortless](https://www.youtube.com/watch?v=pqWUuYTcG-o)/`Azure`: Peasantry as Autoencoded H&G
   
 ### Sing O Muse [4](https://www.youtube.com/watch?v=TWVbZ0WQ3s8)
