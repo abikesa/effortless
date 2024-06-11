@@ -17,9 +17,9 @@
 </head>
 <body>
     <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/EE1JhGFfTFQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/9xOSr66sT8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/pqWUuYTcG-o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/EE1JhGFfTFQ" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/9xOSr66sT8c" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/pqWUuYTcG-o" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </body>
 </html>
@@ -44,4 +44,3 @@
 - Version/`iPhone`: Iterative Update of Bots on Electricity-Dependent Assembly Line
 - Marketshare/`iFastest`: Belongs to Most Frequent Iterator & Fasted Deployer in Town Square
 
-        <iframe src="https://www.youtube.com/embed/9xOSr66sT8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
